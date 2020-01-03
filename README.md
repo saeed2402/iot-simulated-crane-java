@@ -10,7 +10,7 @@ description: "A set of easy-to-understand, continuously-tested samples for conne
 
 # Azure IoT Samples for Java
 
-azure-iot-samples-java provides a set of easy-to-understand, continuously-tested samples for connecting to Azure IoT Hub via Azure/azure-iot-sdk-java.
+azure-iot-samples-java provides a set of easy-to-understand, continuously-tested samples for connecting to Azure IoT Hub via Azure/azure-iot-sdk-java. Quickstarts/simulated-device-2 folder is where the code for simulated crane reside.
 
 ## Need support?
 If you run into any issues with these samples, please file an issue on our main repository [azure-iot-sdk-java](https://github.com/Azure/azure-iot-sdk-java) for faster turnaround.
