@@ -5,7 +5,7 @@ languages:
 products:
 - azure
 - azure-iot-hub
-description: "A set of easy-to-understand, continuously-tested samples for connecting to Azure IoT Hub via Azure/azure-iot-sdk-java"
+description: "A set of easy-to-understand, continuously-tested samples for connecting to Azure IoT Hub via Azure/azure-iot-sdk-java. Quickstarts/simulated-device-2 folder is where the code for simulated crane reside."
 ---
 
 # Azure IoT Samples for Java
